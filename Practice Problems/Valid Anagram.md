@@ -11,7 +11,7 @@ Given two strings `s` and `t`, return `true` _if_ `t` _is an [[_Terms#^ac4ad9|an
 
 ---
 ### Brute-Force Approach
-idk tbh
+Sort both strings and compare - `O(n log n)`
 
 ---
 ## Solution

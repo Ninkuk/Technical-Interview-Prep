@@ -14,8 +14,7 @@ Example: `s = "racecar"`
 
 ---
 ### Brute-Force Approach
-
-I don't even know tbh
+No brute force- just use two pointers
 
 ---
 ## Solution

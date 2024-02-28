@@ -1,11 +1,19 @@
 #leetcode #technical
 
-**Link**: 
+**Link**: https://leetcode.com/problems/additive-number/
 **Difficulty**: <mark style="background: #FFF3A3A6;">Medium</mark>
-**Concepts Used**: 
+**Concepts Used**: [[Backtracking]]
 
 ---
 ## Problem
+
+An **additive number** is a string whose digits can form an **additive sequence**.
+
+A valid **additive sequence** should contain **at least** three numbers. Except for the first two numbers, each subsequent number in the sequence must be the sum of the preceding two.
+
+Given a string containing only digits, return `true` if it is an **additive number** or `false` otherwise.
+
+**Note:** Numbers in the additive sequence **cannot** have leading zeros, so sequence `1, 2, 03` or `1, 02, 3` is invalid.
 
 ---
 ### Brute-Force Approach

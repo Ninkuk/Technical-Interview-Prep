@@ -54,3 +54,4 @@ def twoSum(self, numbers: List[int], target: int) -> List[int]:
 
 ---
 ## Notes
+Notice that the array is sorted - this is not a coincidence!

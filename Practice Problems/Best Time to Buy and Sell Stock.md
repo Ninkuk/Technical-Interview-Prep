@@ -14,7 +14,7 @@ Return _the maximum profit you can achieve from this transaction_. If you cannot
 
 ---
 ### Brute-Force Approach
-#todo
+Nested loops `O(N^2)` to pair all values and return the highest diff
 
 ---
 ## Solution
