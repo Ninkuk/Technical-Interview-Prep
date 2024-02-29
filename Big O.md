@@ -124,7 +124,7 @@ log(2^x) = log(n) \\
 x = log(n)
 \end{gather}
 $$
->[!tip] Remember!
+>[!TIP] Remember!
 >At each step, if you cut down the size of your input (n) by half, then you have a run time of `log(n)`
 
 ---
@@ -141,7 +141,7 @@ O(nlogn) is less efficient than O(n) but more efficient than O(n<sup>2</sup>)
 
 This usually occurs in *recursion* where the recursion tree height is n with 2 branches at each level.
 
->[!danger] HOT HOT HOT TIP
+>[!DANGER] HOT HOT HOT TIP
 >In `O(log n)`, you reduce your input by half everytime, but in `O(2^n)` you create two new branches for every input.
 
 ![[bigo logn vs 2_n.png]]

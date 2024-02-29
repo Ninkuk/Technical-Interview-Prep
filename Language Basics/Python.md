@@ -40,7 +40,7 @@ True or False
 ---
 ## If statements
 
-> [!warning] Check your indents
+> [!WARNING] Check your indents
 
 ```python
 if condition:
@@ -54,7 +54,7 @@ else:
 ---
 ## Loops
 
-> [!warning] Make sure to increment the condition variable 
+> [!WARNING] Make sure to increment the condition variable 
 
 ```python
 # While Loops
@@ -179,7 +179,7 @@ arr2d = [[0] * 4 for i in range(4)]
 ---
 ## Strings
 
-> [!important] String are immutable and any updates result in a new string
+> [!IMPORTANT] String are immutable and any updates result in a new string
 > Space and Time: O(n)
 
 ```python
