@@ -1,12 +1,9 @@
 #technical 
 
-A quickie on python from the perspective of coding interviews.
-
 ## General Tips
- - Python is very sensitive about <u>indentation</u>. Make sure your indent levels are correct, especially on a text editor!
+- Python is very sensitive about <u>indentation</u>. Make sure your indent levels are correct, especially on a text editor!
 
 ---
-
 ## Variables
 
 ```python
@@ -23,7 +20,6 @@ x = None # None is Null
 ```
 
 ---
-
 ## Conditions
 
 ```python
@@ -42,7 +38,6 @@ True or False
 ```
 
 ---
-
 ## If statements
 
 > [!warning] Check your indents
@@ -57,7 +52,6 @@ else:
 ```
 
 ---
-
 ## Loops
 
 > [!warning] Make sure to increment the condition variable 
@@ -95,7 +89,6 @@ for n1, n2 in zip(nums1, nums2):
 ```
 
 ---
-
 ## Math
 
 ```python
@@ -120,7 +113,6 @@ float("-inf")
 ```
 
 ---
-
 ## Lists (Arrays)
 
 ```python
@@ -170,7 +162,6 @@ max(lst)
 ```
 
 ---
-
 ## 2D Arrays
 
 ```python
@@ -186,7 +177,6 @@ arr2d = [[0] * 4 for i in range(4)]
 ```
 
 ---
-
 ## Strings
 
 > [!important] String are immutable and any updates result in a new string
@@ -210,7 +200,6 @@ s.split(",") # [abc, def, ghi]
 ```
 
 ---
-
 ## Queues
 
 > [!tip] Queues in Python are double-ended by default
@@ -236,7 +225,6 @@ q.popLeft()
 ```
 
 ---
-
 ## Hash Sets
 
 > [!caution] Sets can not have duplicates in them
@@ -261,7 +249,6 @@ value in s # True
 ```
 
 ---
-
 ## Hash Maps
 
 > [!caution] Hash/Dict is UNORDERED!
