@@ -61,3 +61,8 @@ interface Point {
 
 let pt: Point = {x: 0, y: 5};
 ```
+
+---
+
+## Generics
+https://www.youtube.com/watch?v=EcCTIExsqmI
